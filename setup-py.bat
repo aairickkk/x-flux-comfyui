@@ -10,6 +10,8 @@ if exist "%python_exec%" (
 ) else (
     echo Installing with system Python
     setup.py"
+    
 )
+
 
 pause
